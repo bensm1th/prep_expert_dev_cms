@@ -5,7 +5,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'join_us', 
-    password: 'ar2gatos'
+    password: 'aaaaa'
 });
 
 var q = 'SELECT 1 + 1 AS solution';
